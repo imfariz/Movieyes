@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Movieyes</string>
+    <string name="title_activity_detail_show">DetailShowActivity</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="poster_description">Poster of The Show</string>
+    <string name="show_text">Spiderman No Way Home</string>
+    <string name="show_release">Release Date :</string>
+    <string name="show_score">Average Score :</string>
+    <string name="show_overview">Overview :</string>
+    <string name="movie">MOVIE</string>
+    <string name="series">TV SHOW</string>
+    <string name="tv_show">SERIES</string>
+    <string name="splashscreen">SplashScreen</string>
+    <string name="release">Released :</string>
+    <string name="bookmark">BOOKMARK</string>
+    <string name="menu_bookmark">bookmark</string>
+    <string name="Bookmark_404">Data Not Found</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bookmarks_movie">Movie not favorited yet</string>
+    <string name="bookmarks_tv_show_404">TV Show not favorited yet</string>
+    <string name="descending">A - Z</string>
+    <string name="ascending">Z - A</string>
+    <string name="random">RANDOM</string>
+</resources>

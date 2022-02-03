@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/action_desc"
+            android:checked="true"
+            android:title="@string/descending" />
+        <item
+            android:id="@+id/action_asc"
+            android:checked="false"
+            android:title="@string/ascending" />
+        <item
+            android:id="@+id/action_random"
+            android:checked="false"
+            android:title="@string/random" />
+    </group>
+</menu>
